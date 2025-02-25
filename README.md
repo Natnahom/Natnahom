@@ -21,8 +21,9 @@ I am a software engineering student at AASTU, and I absolutely love working with
 - Developing interactive and dynamic front-end applications 🌈
 
 ## Projects 🔍
-- [Project 1](link) - Brief description here! ✨
-- [Project 2](link) - Brief description here! 🌟
+- Fraud detection API (https://github.com/Natnahom/kaim-week-8_and_9) - Brief description here! ✨
+- Alx high level programming (https://github.com/Natnahom/alx-higher_level_programming) - Brief description here! 🌟
+- Echo chat app (https://github.com/Natnahom/Echo_chat_app) - Brief description here! 🌟
 
 ## Badges 🏅
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
