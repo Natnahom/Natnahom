@@ -18,14 +18,19 @@ I am a software engineering student at AASTU, and I absolutely love working with
   - ReactJS ⚛️
   - Flutter 🦄
 - **Database**: SQL 📊
-- **Certificates**: Front-end Development Certificate from ALX 🎓
+- **Certificates**:
+      - Front-end Development Certificate from ALX 🎓 (https://drive.google.com/file/d/1ih_kWngaQBM8RZjA0E04QbubglJRJiia/view?usp=sharing)
+      - Web dev Certificate from UDACITY 🎓 (https://drive.google.com/file/d/1lfgQitCNiU77GWhFrN2QkSWg0z33hQ8k/view?usp=sharing)
 
 ## Current Interests 🚀
 - Exploring the fascinating world of AI and machine learning 🤖
 - Developing interactive and dynamic front-end applications 🌈
 
 ## Projects 🔍
-- Fraud detection API (https://github.com/Natnahom/kaim-week-8_and_9) ✨
+- Fraud detection API (https://github.com/Natnahom/AdeyInnovations-FraudDetection) ✨
+- Telegram Ecommerce Named-Entity-Recognition (https://github.com/Natnahom/EthioMart-Telegram-Ecommerce-NER) ✨
+- Rossmann Store Sales Predictions (https://github.com/Natnahom/Rossmann-SalesForecasting) ✨
+- Credit Scoring Model for Ecommerce platform (https://github.com/Natnahom/BatiBank-CreditScoring) 🌟
 - Alx high level programming (https://github.com/Natnahom/alx-higher_level_programming) 🌟
 - Echo chat app (https://github.com/Natnahom/Echo_chat_app) 🌟
 
