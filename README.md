@@ -19,8 +19,8 @@ I am a software engineering student at AASTU, and I absolutely love working with
   - Flutter 🦄
 - **Database**: SQL 📊
 - **Certificates**:
-      - Front-end Development Certificate from ALX 🎓 (https://drive.google.com/file/d/1ih_kWngaQBM8RZjA0E04QbubglJRJiia/view?usp=sharing)
-      - Web dev Certificate from UDACITY 🎓 (https://drive.google.com/file/d/1lfgQitCNiU77GWhFrN2QkSWg0z33hQ8k/view?usp=sharing)
+  - Front-end Development Certificate from ALX 🎓 (https://drive.google.com/file/d/1ih_kWngaQBM8RZjA0E04QbubglJRJiia/view?usp=sharing)
+  - Web dev Certificate from UDACITY 🎓 (https://drive.google.com/file/d/1lfgQitCNiU77GWhFrN2QkSWg0z33hQ8k/view?usp=sharing)
 
 ## Current Interests 🚀
 - Exploring the fascinating world of AI and machine learning 🤖
